@@ -25,7 +25,7 @@ class App extends JFrame
 	}
 }
 
-class P8
+class Wishing_App
 {
 	public static void main(String args[])
 	{
